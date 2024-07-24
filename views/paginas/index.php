@@ -114,13 +114,21 @@
         <div class="boleto boleto--presencial">
             <h4 class="boleto__logo">&#60;Nutra /></h4>
             <p class="boleto__plan">Presencial</p>
+<<<<<<< HEAD
             <p class="boleto__precio">$0</p>
+=======
+            <p class="boleto__precio">$199</p>
+>>>>>>> 0cf888241bc5818caab29886b6aa3cc6153183a7
         </div>
 
         <div class="boleto boleto--virtual">
             <h4 class="boleto__logo">&#60;Nutra /></h4>
             <p class="boleto__plan">Virtual</p>
+<<<<<<< HEAD
             <p class="boleto__precio">$0</p>
+=======
+            <p class="boleto__precio">$49</p>
+>>>>>>> 0cf888241bc5818caab29886b6aa3cc6153183a7
         </div>
 
         <div class="boleto boleto--gratis">
